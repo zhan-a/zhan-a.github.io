@@ -1,0 +1,71 @@
+cv:
+  name: Zhan Amankeldy
+  label: Data Science Undergraduate, KBTU
+  email: zhanamankeldy@gmail.com
+  location: Almaty, Kazakhstan
+  image: ""
+  summary: Data Science undergraduate at the Kazakh-British Technical University. Research interests in conformal prediction for volatility models (GARCH, HAR, and extensions) and open-source assistive technology.
+
+  social_networks:
+    - network: GitHub
+      username: zhan-a
+    - network: LinkedIn
+      username: zhan-amankeldy-64a9002a5
+
+  sections:
+    Education:
+      - institution: Kazakh-British Technical University (KBTU)
+        location: Almaty, Kazakhstan
+        url: https://kbtu.edu.kz/
+        area: Data Science
+        studyType: B.Sc.
+        start_date: 2024
+        end_date: present
+        highlights:
+          - Coursework in statistics, machine learning, and time-series analysis.
+          - Currently in 2nd year.
+
+    Research:
+      - company: Independent research, KBTU
+        position: Conformal prediction for volatility models
+        location: Almaty, Kazakhstan
+        start_date: 2025
+        end_date: present
+        summary: Designing a unified conformal-prediction testing pipeline for GARCH, HAR, and extended volatility models on financial time series.
+        highlights:
+          - Comparing empirical coverage and interval efficiency across regimes.
+          - Models studied include GARCH/EGARCH/GJR-GARCH and HAR-RV variants.
+
+    Awards:
+      - title: RESNA Student Design Competition — Finalist
+        authors:
+          - "RESNA"
+        date: 2026
+        awarder: Rehabilitation Engineering and Assistive Technology Society of North America
+        url: https://www.resna.org/
+        summary: For *Kozha*, an open-source sign language translator developed with our student team.
+
+    Projects:
+      - name: Kozha — open-source sign language translator
+        summary: Real-time sign language translation aimed at improving accessibility for Kazakh and Russian Sign Language users. RESNA 2026 Finalist.
+        highlights:
+          - Open-source pipeline designed to be extended to additional sign languages.
+          - Designed for low-resource consumer-hardware deployment.
+        start_date: 2025
+        end_date: present
+
+      - name: Conformal volatility forecasting toolkit
+        summary: Reproducible pipeline for fitting GARCH/HAR-family models and wrapping their forecasts in split and adaptive conformal prediction intervals.
+        highlights:
+          - Coverage diagnostics and regime-conditional evaluation.
+          - Baseline comparisons against model-based intervals.
+        start_date: 2025
+        end_date: present
+
+    Languages:
+      - name: Kazakh
+        summary: Native
+      - name: Russian
+        summary: Fluent
+      - name: English
+        summary: Fluent
