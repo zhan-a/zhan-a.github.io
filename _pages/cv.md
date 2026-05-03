@@ -22,12 +22,12 @@ Research experience
 
 Awards
 ======
-* **2026** — *Finalist*, [RESNA Student Design Competition](https://www.resna.org/) — for *Kozha*, an open-source sign language translator.
+* **2026** — **1st place**, [RESNA Student Design Competition](https://www.resna.org/) — for *Kozha*, an open-source sign language translator.
 
 Projects
 ======
 * **Kozha — open-source sign language translator** (2025 — present)
-  * Real-time sign language translation aimed at improving accessibility for Kazakh and Russian Sign Language users. RESNA 2026 Finalist.
+  * Real-time sign language translation aimed at improving accessibility for Kazakh and Russian Sign Language users. 1st place, RESNA Student Design Competition 2026.
 * **Conformal volatility forecasting toolkit** (2025 — present)
   * Reproducible pipeline for fitting GARCH/HAR-family models and wrapping their forecasts in split and adaptive conformal prediction intervals.
 
