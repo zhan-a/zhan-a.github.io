@@ -14,6 +14,7 @@ Education
 * **B.Sc. Data Science & Business Analytics**, Kazakh-British Technical University (KBTU), Almaty · 2024 — 2028 (expected)
   * Dual-degree programme with the **University of London** (BSc Economics, Management, Finance and the Social Sciences), under the academic direction of the London School of Economics.
   * Third year. Coursework in statistical inference, machine learning, econometrics, real analysis, and time-series analysis.
+  * First-year University of London examinations: all marks in the **First-class band** (70+).
 
 Research
 ======
