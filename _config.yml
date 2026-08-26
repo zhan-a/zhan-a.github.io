@@ -12,7 +12,7 @@ site_theme               : "air" # The available themes options are "default", "
 title                    : "Zhan Amankeldy"
 title_separator          : "·"
 name                     : &name "Zhan Amankeldy"
-description              : &description "Personal site of Zhan Amankeldy — Data Science undergraduate at KBTU. Conformal prediction for volatility models, and open-source assistive technology."
+description              : &description "Personal site of Zhan Amankeldy — statistics and data science undergraduate at KBTU and the University of London. High-dimensional covariance estimation, empirical market microstructure, and open-source assistive technology."
 url                      : https://zhan-a.github.io
 baseurl                  : ""
 repository               : "zhan-a/zhan-a.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Zhan Amankeldy"
   pronouns         :
-  bio              : "Data Science undergraduate. Conformal prediction & volatility modeling."
+  bio              : "Statistics & data science undergraduate. Covariance estimation and empirical market microstructure."
   location         : "Almaty, Kazakhstan"
   employer         : "Kazakh-British Technical University"
   uri              :

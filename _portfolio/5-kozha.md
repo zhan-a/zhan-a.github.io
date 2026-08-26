@@ -4,7 +4,7 @@ excerpt: "Real-time sign language translation system. 1st place, RESNA Student D
 collection: portfolio
 ---
 
-**Kozha** is a real-time, open-source sign language translation system aimed at improving accessibility for deaf and hard-of-hearing users. Built and submitted with our student team; awarded **1st place** at the [RESNA Student Design Competition](https://www.resna.org/) in 2026.
+**Kozha** is a real-time, open-source sign language translation system aimed at improving accessibility for deaf and hard-of-hearing users. Built and submitted with our student team, which I co-lead; awarded **1st place** at the [RESNA Student Design Competition](https://www.resna.org/) in 2026.
 
 ## Why this project
 
@@ -18,4 +18,4 @@ Existing sign language translation tools predominantly target American Sign Lang
 
 ## Status
 
-Active. Code and documentation forthcoming on GitHub.
+Active. Code and documentation at [github.com/zhan-a/Kozha](https://github.com/zhan-a/Kozha).

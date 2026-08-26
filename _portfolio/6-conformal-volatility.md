@@ -1,8 +1,10 @@
 ---
 title: "Conformal volatility forecasting toolkit"
-excerpt: "Conformal prediction pipelines for GARCH, HAR, and extended volatility models."
+excerpt: "Conformal prediction pipelines for GARCH, HAR, and extended volatility models. Earlier work, 2025–2026."
 collection: portfolio
 ---
+
+*Earlier work, 2025–2026.*
 
 A reproducible pipeline for fitting GARCH / HAR-family models and wrapping their forecasts in **split** and **adaptive conformal prediction** intervals. Includes coverage diagnostics, regime-conditional evaluation, and baseline comparisons.
 
