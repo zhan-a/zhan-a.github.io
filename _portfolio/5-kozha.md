@@ -1,21 +1,19 @@
 ---
-title: "Kozha — open-source sign language translator"
-excerpt: "Real-time sign language translation system. 1st place, RESNA Student Design Competition, 2026."
+title: "Kozha: open-source speech-to-sign translation"
+excerpt: "Translates speech and text into 3D sign-language animation. 1st place, RESNA Student Design Competition, 2026."
 collection: portfolio
 ---
 
-**Kozha** is a real-time, open-source sign language translation system aimed at improving accessibility for deaf and hard-of-hearing users. Built and submitted with our student team, which I co-lead; awarded **1st place** at the [RESNA Student Design Competition](https://www.resna.org/) in 2026.
+**Kozha** is an open-source pipeline that translates speech and text into 3D sign-language animation, so that spoken content becomes accessible to deaf and hard-of-hearing people. I co-lead the student team that built it, and it won **1st place** at the [RESNA Student Design Competition](https://www.resna.org/) in 2026.
 
 ## Why this project
 
-Existing sign language translation tools predominantly target American Sign Language. Kazakh and Russian Sign Language users are severely underrepresented in datasets, models, and consumer tools. Kozha targets this gap directly — open-source, locally trainable, and designed to work on consumer hardware.
+Most existing translation tools rely on pre-recorded video dictionaries with limited vocabulary. Generating signs from a notation instead means the system is not limited to the words someone has filmed.
 
-## What it does
+## How it works
 
-- Real-time sign-to-text translation from a single camera feed
-- Open-source pipeline so others can extend the model to additional sign languages
-- Designed for low-resource deployment
+Speech is transcribed to text, parsed with spaCy, encoded in the HamNoSys notation for signs, serialised to SiGML, and rendered by a 3D signing avatar. British Sign Language has the most complete sign database; American, German and other sign languages have varying coverage.
 
 ## Status
 
-Active. Code and documentation at [github.com/zhan-a/Kozha](https://github.com/zhan-a/Kozha).
+Active. Live demo at [kozha-translate.com](https://kozha-translate.com), with a browser extension; code at [github.com/zhan-a/Kozha](https://github.com/zhan-a/Kozha).

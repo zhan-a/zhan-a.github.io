@@ -1,23 +1,23 @@
 ---
 title: "Conformal volatility forecasting toolkit"
-excerpt: "Conformal prediction pipelines for GARCH, HAR, and extended volatility models. Earlier work, 2025–2026."
+excerpt: "Conformal prediction intervals around GARCH- and HAR-family volatility forecasts. Earlier work, 2025 to 2026."
 collection: portfolio
 ---
 
-*Earlier work, 2025–2026.*
+*Earlier work, 2025 to 2026.*
 
-A reproducible pipeline for fitting GARCH / HAR-family models and wrapping their forecasts in **split** and **adaptive conformal prediction** intervals. Includes coverage diagnostics, regime-conditional evaluation, and baseline comparisons.
+A reproducible pipeline for fitting GARCH- and HAR-family models and wrapping their forecasts in **split** and **adaptive conformal prediction** intervals, with coverage diagnostics, regime-conditional evaluation and baseline comparisons.
 
 ## Models under study
 
-- **GARCH** family — GARCH, EGARCH, GJR-GARCH
-- **HAR** family — HAR-RV and its extensions
-- Realized-volatility extensions and hybrid ML residual models
+- **GARCH** family: GARCH, EGARCH, GJR-GARCH
+- **HAR** family: HAR-RV and its extensions
+- Realised-volatility extensions and hybrid residual models
 
-## Goal
+## Question and result
 
-Determine when conformalization meaningfully improves predictive reliability over model-based intervals — and where it fails, particularly under volatility clustering and regime shifts.
+The question was when conformalisation meaningfully improves predictive reliability over model-based intervals, and where it fails under volatility clustering and regime shifts. Across five equities, adaptive conformal intervals reduced the autocorrelation of coverage violations relative to split conformal.
 
 ## Status
 
-Active research, currently in the experimentation and baselines phase.
+Paused in 2026, when my research moved to covariance estimation.
