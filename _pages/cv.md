@@ -19,7 +19,7 @@ Education
 Research
 ======
 * **Ledoit–Wolf covariance shrinkage: reproduction and extension** · Independent research · 2026
-  * Reproduced the Ledoit–Wolf (2004) Monte Carlo study from the formulas, validated against scikit-learn's implementation and against the paper's analytic benchmark. 260 automated tests; every table regenerates byte-for-byte from committed code.
+  * Reproduced the Ledoit–Wolf (2004) Monte Carlo study from the formulas, validated against scikit-learn's implementation and against the paper's analytic benchmark. 263 automated tests and one recorded expected failure; every table regenerates from committed code, byte-identically on the recording platform.
   * Extension to Jagannathan and Ma (2003): recovered the covariance matrix implied by a long-only constraint at each monthly rebalance over 565 months of Fama–French industry portfolios. The constraint's adjustment lines up with shrinkage toward the identity, not toward constant correlation.
   * Write-up being finalised; repository to be made public.
 

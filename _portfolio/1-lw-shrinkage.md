@@ -12,7 +12,7 @@ A sample covariance matrix is a poor estimator when the number of assets approac
 
 ## Validation
 
-Agreement with scikit-learn's implementation is weak evidence on its own, since two implementations can share a mistake. The stronger check is the paper's analytic percentage relative improvement in average loss, which the theory predicts independently of any code and which separates a bug from Monte Carlo noise. The suite runs 260 automated tests, and every table in the write-up regenerates byte-for-byte from committed code in a clean clone.
+Agreement with scikit-learn's implementation is weak evidence on its own, since two implementations can share a mistake. The stronger check is the paper's analytic percentage relative improvement in average loss, which the theory predicts independently of any code and which separates a bug from Monte Carlo noise. The suite runs 263 automated tests and one recorded expected failure, and every table in the write-up regenerates from committed code in a clean clone, byte-identically on the recording platform.
 
 ## Extension
 
