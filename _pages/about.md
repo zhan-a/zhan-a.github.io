@@ -9,8 +9,6 @@ redirect_from:
 
 I'm Zhan, a third-year undergraduate in Almaty studying Data Science and Business Analytics on a dual degree: the University of London BSc, under the academic direction of the London School of Economics, taught at the [Kazakh-British Technical University](https://kbtu.edu.kz/) alongside KBTU's own bachelor's. My interests are in high-dimensional statistics, and in what happens when statistical methods meet real, badly behaved financial data.
 
-I'm looking for a research placement in statistics or machine learning for summer 2027.
-
 Research
 ======
 
