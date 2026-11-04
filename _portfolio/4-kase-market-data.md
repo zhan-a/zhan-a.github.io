@@ -23,4 +23,4 @@ The exchange's public board feed serves the previous session's values, not a liv
 
 ## Status
 
-The write-up is being finalised, and the code becomes public once it is.
+Code and write-up: [github.com/zhan-a/kase-market-data](https://github.com/zhan-a/kase-market-data).

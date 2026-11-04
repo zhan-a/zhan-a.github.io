@@ -23,4 +23,4 @@ The more useful result is a bound on what the experiment could ever have detecte
 
 ## Status
 
-The write-up is being revised, and the repository becomes public once it is.
+Code and write-up: [github.com/zhan-a/kase-strategy-audit](https://github.com/zhan-a/kase-strategy-audit).

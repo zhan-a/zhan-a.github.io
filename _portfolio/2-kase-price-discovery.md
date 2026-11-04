@@ -18,4 +18,4 @@ After foreign moves of 2% or more, about 81% of the day's KASE move is already i
 
 ## Status
 
-The write-up is being finalised, and the repository becomes public once it is.
+Code and write-up: [github.com/zhan-a/kase-price-discovery](https://github.com/zhan-a/kase-price-discovery).

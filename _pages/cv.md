@@ -21,19 +21,22 @@ Research
 * **Ledoit–Wolf covariance shrinkage: reproduction and extension** · Independent research · 2026
   * Reproduced the Ledoit–Wolf (2004) Monte Carlo study from the formulas, validated against scikit-learn's implementation and against the paper's analytic benchmark. 263 automated tests and one recorded expected failure; every table regenerates from committed code, byte-identically on the recording platform.
   * Extension to Jagannathan and Ma (2003): recovered the covariance matrix implied by a long-only constraint at each monthly rebalance over 565 months of Fama–French industry portfolios. The constraint's adjustment lines up with shrinkage toward the identity, not toward constant correlation.
-  * Write-up being finalised; repository to be made public.
+  * Repository to be made public.
 
 * **Cross-listed price discovery on the Kazakhstan Stock Exchange** · Independent research · 2026
   * How foreign price moves reach KASE overnight, identified by holding the venue fixed and varying session overlap: Kaspi.kz on NASDAQ, with no overlap, against Kazatomprom and Air Astana in London, with four hours.
   * After foreign moves of 2% or more, about 81% of the day's KASE move is in place half an hour after the open. A measurement of how information travels, not a trading opportunity.
+  * Code and write-up: [github.com/zhan-a/kase-price-discovery](https://github.com/zhan-a/kase-price-discovery).
 
 * **Audit of candidate trading strategies on dual-listed Kazakh equities** · Independent research · 2026
   * Six candidate strategies, every trial reported with the defect that invalidated it: opening prices that could not be traded in size, look-ahead between signal and fill, and a cost model built on a field that is not a price.
   * Power analysis: at this trade rate, telling a Sharpe ratio of 1 from zero needs about 40 round trips, roughly eight years of trading.
+  * Code and write-up: [github.com/zhan-a/kase-strategy-audit](https://github.com/zhan-a/kase-strategy-audit).
 
 * **KASE market data: assembly and validation** · Independent research · 2026
   * A one-minute bar archive for 24 instruments, 2015 to 2026, with the validation that makes it usable, including a time-zone change that shifted every timestamp by an hour.
   * Showed that the exchange's public board feed serves the previous session's values, not a live book.
+  * Code and write-up: [github.com/zhan-a/kase-market-data](https://github.com/zhan-a/kase-market-data).
 
 Awards and competitions
 ======
